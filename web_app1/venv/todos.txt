@@ -1,0 +1,5 @@
+Chore #11
+Convert pgm to an exe
+Fix python code
+Get the paper
+Get Python certification
